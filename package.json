@@ -52,7 +52,7 @@
     "next": ">=10"
   },
   "dependencies": {
-    "@babel/core": "^7.16.0",
+    "@babel/core": "^7.26.0",
     "@babel/plugin-syntax-jsx": "^7.16.0",
     "@babel/plugin-syntax-typescript": "^7.16.0",
     "babel-loader": "^9.1.0",
